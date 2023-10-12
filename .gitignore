@@ -1,1 +1,3 @@
 *.swp
+flake.lock
+flake.nix
