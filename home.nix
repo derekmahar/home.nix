@@ -1,6 +1,9 @@
 { config, pkgs, ... }:
-
 {
+  imports = [
+    ./vim.nix
+  ];
+
   # Home Manager needs a bit of information about you and the paths it should
   # manage.
   home.username = "ubuntu";
@@ -115,13 +118,6 @@
     home-manager = {
       # Let Home Manager install and manage itself.
       enable = true;
-    };
-
-    vim = {
-      enable = true;
-      plugins = with pkgs.vimPlugins; [
-        fzf-vim
-      ];
     };
   };
 }
