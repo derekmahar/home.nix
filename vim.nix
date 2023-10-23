@@ -33,6 +33,10 @@
         nmap <leader>s<up>     :leftabove new<CR>
         nmap <leader>s<down>   :rightbelow new<CR>
 
+        " Fzf.vim
+        nnoremap <silent> <C-f> :Files<CR>
+        nnoremap <silent> <Leader>f :Rg<CR>
+
         " Settings
         color evening
         set background=dark
