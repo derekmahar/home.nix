@@ -1,3 +1,7 @@
 #!/usr/bin/bash
 
+# Change to the directory where the installation script lives.
+cd $(dirname $BASH_SOURCE)
+
+# Create symbolic links to the Nix configuration files in the parent directory.
 ln --relative --symbolic *.nix ..
