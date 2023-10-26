@@ -5,6 +5,7 @@
       enable = true;
       plugins = with pkgs.vimPlugins; [
         fzf-vim
+        vim-unimpaired
       ];
       settings = {
         expandtab = true;
