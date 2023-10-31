@@ -1,6 +1,8 @@
 { config, pkgs, ... }:
 {
   imports = [
+    ./bash.nix
+    ./fzf.nix
     ./user.nix
     ./vim.nix
   ];
@@ -18,6 +20,7 @@
   # environment.
   home.packages = with pkgs; [
     amber
+    bash
     bat
     broot
     cargo
@@ -32,7 +35,6 @@
     eza
     fd
     frogmouth
-    fzf
     gawkextlib.csv
     go
     goawk
