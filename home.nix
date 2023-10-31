@@ -2,9 +2,12 @@
 {
   imports = [
     ./bash.nix
+    ./broot.nix
     ./fzf.nix
+    ./mcfly.nix
     ./user.nix
     ./vim.nix
+    ./zoxide.nix
   ];
 
   # This value determines the Home Manager release that your configuration is
@@ -22,7 +25,6 @@
     amber
     bash
     bat
-    broot
     cargo
     cointop
     clifm
@@ -44,7 +46,6 @@
     kotlin
     lf
     lua
-    mcfly
     miller
     nb
     nmap
@@ -67,7 +68,6 @@
     xh
     xonsh
     xsv
-    zoxide
 
     # # It is sometimes useful to fine-tune packages, for example, by applying
     # # overrides. You can do that directly here, just don't forget the

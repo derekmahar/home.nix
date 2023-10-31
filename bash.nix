@@ -18,12 +18,6 @@
       initExtra = ''
         # Keychain
         eval $(keychain --eval --agents ssh id_rsa)
-
-        # Start McFly
-        #eval "$(mcfly init bash)"
-
-        # Start Zoxide
-        eval "$(zoxide init bash)"
       '';
       profileExtra = ''
         echo "Reading $BASH_SOURCE"
