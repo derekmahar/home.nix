@@ -16,8 +16,6 @@
       enable = true;
       enableCompletion = true;
       initExtra = ''
-        # Keychain
-        eval $(keychain --eval --agents ssh id_rsa)
       '';
       profileExtra = ''
         echo "Reading $BASH_SOURCE"
