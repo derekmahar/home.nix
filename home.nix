@@ -6,6 +6,7 @@
     ./fzf.nix
     ./keychain.nix
     ./mcfly.nix
+    ./tmux.nix
     ./user.nix
     ./vim.nix
     ./zoxide.nix
