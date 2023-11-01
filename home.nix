@@ -31,7 +31,9 @@
     cargo
     cointop
     clifm
+    cmake
     croc
+    curl
     dateutils
     delta
     dive
@@ -51,6 +53,7 @@
     lua
     miller
     nb
+    ninja
     nmap
     oil
     openjdk19_headless
@@ -65,12 +68,14 @@
     tealdeer
     tidy-viewer
     tig
+    unzip
     vifm
     w3m
     wormhole-rs
     xh
     xonsh
     xsv
+    zip
 
     # # It is sometimes useful to fine-tune packages, for example, by applying
     # # overrides. You can do that directly here, just don't forget the
