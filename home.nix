@@ -28,6 +28,7 @@
     amber
     bash
     bat
+    binutils
     cargo
     cointop
     clifm
@@ -43,6 +44,7 @@
     fd
     frogmouth
     gawkextlib.csv
+    gcc
     go
     goawk
     gojq
