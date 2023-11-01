@@ -4,6 +4,7 @@
     ./bash.nix
     ./broot.nix
     ./fzf.nix
+    ./git.nix
     ./keychain.nix
     ./mcfly.nix
     ./tmux.nix
