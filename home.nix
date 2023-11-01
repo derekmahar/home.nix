@@ -45,6 +45,7 @@
     frogmouth
     gawkextlib.csv
     gcc
+    gnumake
     go
     goawk
     gojq
