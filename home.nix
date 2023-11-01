@@ -42,10 +42,13 @@
     elvish
     eza
     fd
+    file
     frogmouth
     gawkextlib.csv
     gcc
+    gmp
     gnumake
+    gnupatch
     go
     goawk
     gojq
