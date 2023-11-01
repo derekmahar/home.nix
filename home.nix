@@ -34,6 +34,7 @@
     clifm
     cmake
     croc
+    csvq
     curl
     dateutils
     delta
@@ -66,6 +67,7 @@
     pandoc
     pet
     ranger
+    rsync
     rustc
     rustfmt
     sd
