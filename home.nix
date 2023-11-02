@@ -67,6 +67,7 @@
     pandoc
     pet
     ranger
+    rlwrap
     rsync
     rustc
     rustfmt
