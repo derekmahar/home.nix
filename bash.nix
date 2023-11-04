@@ -12,6 +12,7 @@
       enable = true;
       enableCompletion = true;
       initExtra = ''
+        echo "Reading $BASH_SOURCE"
       '';
       profileExtra = ''
         echo "Reading $BASH_SOURCE"
