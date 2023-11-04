@@ -5,10 +5,6 @@
       bashrcExtra = ''
         echo "Reading $BASH_SOURCE"
 
-        #THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-        export SDKMAN_DIR="$HOME/.sdkman"
-        [[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
-
         if [ -f ~/.bashrc_private ]; then
           . ~/.bashrc_private
         fi
