@@ -60,6 +60,7 @@
     lua
     miller
     nb
+    neofetch
     ninja
     nmap
     oil
