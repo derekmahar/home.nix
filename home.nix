@@ -68,6 +68,7 @@
     pandoc
     pet
     ranger
+    rclone
     rlwrap
     rsync
     rustc
