@@ -53,6 +53,7 @@
     go
     goawk
     gojq
+    gradle
     hello
     janet
     kotlin
