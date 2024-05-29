@@ -65,7 +65,7 @@
     ninja
     nmap
     oil
-    openjdk19_headless
+    openjdk_headless
     pandoc
     pet
     ranger
