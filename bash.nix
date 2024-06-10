@@ -15,7 +15,7 @@
         #echo "Reading $BASH_SOURCE"
       '';
       profileExtra = ''
-        echo "Reading $BASH_SOURCE"
+        #echo "Reading $BASH_SOURCE"
 
         if [ -d "$HOME/bin" ]
         then
