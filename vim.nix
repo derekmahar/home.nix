@@ -5,7 +5,7 @@
       enable = true;
       plugins = with pkgs.vimPlugins; [
         fzf-vim
-        tabular
+#        tabular
         vim-unimpaired
       ];
       settings = {
