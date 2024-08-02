@@ -42,6 +42,7 @@
     duckdb
     elvish
     eza
+    fastfetch
     fd
     file
 #    frogmouth
@@ -61,7 +62,6 @@
     lua
     miller
     nb
-    neofetch
     ninja
     nmap
     oil
