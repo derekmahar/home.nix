@@ -37,7 +37,7 @@
     csvq
     curl
     dateutils
-#    delta
+    delta
     dive
     duckdb
     elvish
