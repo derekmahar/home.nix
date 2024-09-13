@@ -52,6 +52,7 @@
     gnumake
     gnupatch
     go
+    gox
     goawk
     gojq
     gradle
