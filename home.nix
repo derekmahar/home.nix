@@ -66,6 +66,7 @@
     nmap
     oil
     openjdk_headless
+    opentofu
     pandoc
     pet
     ranger
