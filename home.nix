@@ -83,6 +83,7 @@
     tidy-viewer
     tig
     unzip
+    uv
     vifm
     w3m
     wormhole-rs
