@@ -41,6 +41,7 @@
     dive
     duckdb
     elvish
+    emacs
     eza
     fastfetch
     fd
