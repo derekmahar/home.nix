@@ -3,7 +3,7 @@
   programs = {
     bash = {
       bashrcExtra = ''
-        #echo "Reading $BASH_SOURCE"
+        #echo "Reading $BASH_SOURCE bashrcExtra"
 
         if [ -f ~/.bashrc_private ]; then
           . ~/.bashrc_private
@@ -12,10 +12,10 @@
       enable = true;
       enableCompletion = true;
       initExtra = ''
-        #echo "Reading $BASH_SOURCE"
+        #echo "Reading $BASH_SOURCE initExtra"
       '';
       profileExtra = ''
-        #echo "Reading $BASH_SOURCE"
+        #echo "Reading $BASH_SOURCE profileExtra"
 
         if [ -d "$HOME/bin" ]
         then
