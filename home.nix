@@ -35,6 +35,7 @@
     cmake
     croc
     csvq
+    csvtk
     curl
     dateutils
     delta
