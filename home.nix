@@ -85,6 +85,7 @@
     tidy-viewer
     tig
     unzip
+    usql
     uv
     vifm
     w3m
