@@ -48,7 +48,7 @@
     fastfetch
     fd
     file
-    #frogmouth
+    frogmouth
     gawkextlib.csv
     gcc
     gleam
