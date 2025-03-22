@@ -50,6 +50,7 @@
     #frogmouth
     gawkextlib.csv
     gcc
+    gleam
     gmp
     gnumake
     gnupatch
