@@ -65,6 +65,7 @@
     lf
     lua
     miller
+    nawk
     nb
     ninja
     nmap
