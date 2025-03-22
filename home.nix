@@ -43,6 +43,7 @@
     duckdb
     elvish
     emacs
+    erlang
     eza
     fastfetch
     fd
