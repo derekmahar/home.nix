@@ -49,6 +49,7 @@
     fd
     file
     frogmouth
+    gawk
     gawkextlib.csv
     gcc
     gleam
