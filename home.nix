@@ -92,6 +92,7 @@
     usql
     uv
     vifm
+    visidata
     w3m
     wormhole-rs
     xh
