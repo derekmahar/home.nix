@@ -76,6 +76,7 @@
     opentofu
     pandoc
     pet
+    python313
     ranger
     rclone
     rlwrap
