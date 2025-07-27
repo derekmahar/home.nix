@@ -71,6 +71,7 @@
     nb
     ninja
     nmap
+    nushell
     oil
     openjdk_headless
     opentofu
