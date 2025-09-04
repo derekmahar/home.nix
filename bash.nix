@@ -5,9 +5,18 @@
       bashrcExtra = ''
         #echo "Reading $BASH_SOURCE bashrcExtra"
 
+        # Enable ble.sh for atuin.
+        [[ $- == *i* ]] && source -- "$(blesh-share)"/ble.sh --attach=none
+
         if [ -f ~/.bashrc_private ]; then
           . ~/.bashrc_private
         fi
+
+        # Enable ble.sh for atuin.
+        [[ ! ''${BLE_VERSION-} ]] || ble-attach
+
+        # Load atuin shell plugin for Bash.
+        eval "$(atuin init bash)"
       '';
       enable = true;
       enableCompletion = true;

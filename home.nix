@@ -26,9 +26,11 @@
   # environment.
   home.packages = with pkgs; [
     amber
+    atuin
     bash
     bat
     binutils
+    blesh
     cargo
     cointop
     clifm
