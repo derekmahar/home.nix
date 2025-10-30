@@ -74,7 +74,7 @@
     ninja
     nmap
     nushell
-    oil
+    oils-for-unix
     openjdk_headless
     opentofu
     pandoc
