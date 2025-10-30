@@ -3,8 +3,12 @@
   programs = {
     git = {
       enable = true;
-      userName = "Derek Mahar";
-      userEmail = "derek.mahar@proton.me";
+      settings = {
+        user = {
+          name = "Derek Mahar";
+          email = "derek.mahar@proton.me";
+        };
+      };
     };
   };
 }
