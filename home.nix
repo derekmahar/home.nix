@@ -33,6 +33,9 @@
     binutils
     blesh
     cargo
+    cargo-binstall
+    cargo-cache
+    cargo-update
     cointop
     clifm
     cmake
