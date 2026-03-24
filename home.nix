@@ -97,7 +97,7 @@
     tidy-viewer
     tig
     unzip
-    usql
+    #usql
     uv
     vifm
     visidata
