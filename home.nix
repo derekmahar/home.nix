@@ -45,6 +45,7 @@
     curl
     dateutils
     delta
+    devbox
     dive
     duckdb
     elvish
