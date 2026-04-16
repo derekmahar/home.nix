@@ -45,6 +45,7 @@
     curl
     dateutils
     delta
+    devbox
     dive
     duckdb
     elvish
@@ -58,7 +59,7 @@
     gawk
     gawkextlib.csv
     gcc
-    gleam
+#    gleam
     gmp
     gnumake
     gnupatch
