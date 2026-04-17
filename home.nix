@@ -59,7 +59,7 @@
     gawk
     gawkextlib.csv
     gcc
-#    gleam
+    gleam
     gmp
     gnumake
     gnupatch
