@@ -89,6 +89,7 @@
     python313
     ranger
     rclone
+    ripgrep
     rlwrap
     rsync
     rustc
