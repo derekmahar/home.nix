@@ -68,6 +68,7 @@
     goawk
     gojq
     gradle
+    groovy
     hello
     janet
     kotlin
