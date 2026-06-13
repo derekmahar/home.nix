@@ -81,6 +81,7 @@
     nmap
     nushell
     oils-for-unix
+    opencode
     openjdk_headless
     opentofu
     pandoc
