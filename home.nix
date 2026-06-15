@@ -106,7 +106,6 @@
     vifm
     visidata
     w3m
-    which
     wormhole-rs
     xh
     xonsh
