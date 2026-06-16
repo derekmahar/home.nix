@@ -97,6 +97,7 @@
     sd
     shc
     sqlite-interactive
+    stgit
     tealdeer
     tidy-viewer
     tig
